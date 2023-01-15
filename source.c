@@ -58,7 +58,7 @@ int main(int argc, char* argv[])
 			}
 			//wypisz tablice
 			wypisz(tablica, TABSIZE);
-			printf("\n\n");
+			printf("\n\n"); 
 		}
 	}
 
